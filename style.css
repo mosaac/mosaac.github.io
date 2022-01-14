@@ -246,7 +246,7 @@ margin-right: 10px;}
 
   /* start our team section */
 .team {
-    background: url(../images/type.jpg) no-repeat fixed center center;
+    background: url(type.jpg) no-repeat fixed center center;
      }
 .team .team-dev {
     background-color: rgba(3, 3, 3, 0.5);
@@ -364,7 +364,7 @@ margin-right: 10px;}
 
 /* start clients section */
 .clients {
-    background: url(../images/clients02.jpg) no-repeat fixed center center;
+    background: url(clients02.jpg) no-repeat fixed center center;
 }
 
 .clients .bg-client {
